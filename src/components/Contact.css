@@ -1,0 +1,28 @@
+#contactPage {
+    background-color: var(--reb-mute);
+    text-align: center;
+    border-radius: 1rem;
+    margin: 1rem auto;
+    padding: 1rem;
+    -webkit-box-shadow: 1px 3px 19px 1px rgba(0,0,0,0.92); 
+    box-shadow: 1px 3px 19px 1px rgba(0,0,0,0.92);
+}
+
+ 
+
+#contactPage > h3, #contactPage > p {
+    font-family: 'Open Sans';
+    color: black;
+}
+
+
+
+
+
+
+@media screen and (min-width: 800px) {
+    #contactPage {
+        max-width: 1000px;
+        
+    }
+}

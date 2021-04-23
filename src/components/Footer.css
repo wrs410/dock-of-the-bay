@@ -1,0 +1,29 @@
+.mainFooter {
+    text-align:center;
+    position: fixed;
+    left: 0%;
+    bottom: 0;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0.5rem;
+    background-color: var(--reb-mute);
+}
+
+
+@media screen and (min-width: 1600px) {
+
+
+    .footerNav {
+        text-align: center;
+        width: 50%;
+        margin: 0 auto;
+    }
+    
+    .footerItem {
+        margin: 0 0.5rem;
+        font-weight: 600;
+        font-size: 1.25rem;
+    }
+
+
+}
