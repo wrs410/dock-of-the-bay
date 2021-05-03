@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dock-of-the-bay/static/css/main.059156f1.chunk.css",
-    "main.js": "/dock-of-the-bay/static/js/main.411a873f.chunk.js",
-    "main.js.map": "/dock-of-the-bay/static/js/main.411a873f.chunk.js.map",
+    "main.js": "/dock-of-the-bay/static/js/main.3d336eee.chunk.js",
+    "main.js.map": "/dock-of-the-bay/static/js/main.3d336eee.chunk.js.map",
     "runtime-main.js": "/dock-of-the-bay/static/js/runtime-main.51fb0759.js",
     "runtime-main.js.map": "/dock-of-the-bay/static/js/runtime-main.51fb0759.js.map",
     "static/js/2.cfb6eeae.chunk.js": "/dock-of-the-bay/static/js/2.cfb6eeae.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.51fb0759.js",
     "static/js/2.cfb6eeae.chunk.js",
     "static/css/main.059156f1.chunk.css",
-    "static/js/main.411a873f.chunk.js"
+    "static/js/main.3d336eee.chunk.js"
   ]
 }
